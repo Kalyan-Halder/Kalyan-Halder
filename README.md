@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kalyan-Halder
 - 👀 I’m interested in Coding and Gaming
-- 🌱 I’m currently learning React-Redux
-- 💞️ I’m looking to collaborate on Web Development
+- 🌱 I’m currently Doing AI, ML, Full-Stack
+- 💞️ I’m looking to collaborate on Web Development and ML projects
 - 📫 How to reach me via email. kalyankantihalder02@gmail.com
 
 <!---
